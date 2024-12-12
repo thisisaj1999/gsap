@@ -13,11 +13,11 @@ This repository combines the power of GSAP (GreenSock Animation Platform), React
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gsap-react-threejs.git
+   git clone https://github.com/thisisaj1999/gsap.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd gsap-react-threejs
+   cd gsap
    ```
 3. Install dependencies:
    ```bash
@@ -92,5 +92,5 @@ This project is licensed under the [MIT License](LICENSE).
 - Thanks to the GreenSock, React, and Three.js communities for their amazing tools and resources.
 
 ## Contact
-For questions or feedback, please reach out to `your-email@example.com` or create an issue in this repository.
+For questions or feedback, please reach out to `atuljoshi94170@gmail.com` or create an issue in this repository.
 
